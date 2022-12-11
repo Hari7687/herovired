@@ -1,0 +1,6 @@
+values are: 1
+values are: 2
+values are: 3
+values are: 4
+values are: 5
+sum 15
